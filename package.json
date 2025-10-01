@@ -1,5 +1,5 @@
 {
-  "name": "backend-template-hono",
+  "name": "hono-template",
   "type": "module",
   "scripts": {
     "dev": "tsx watch src/server.ts",
