@@ -9,7 +9,7 @@ export default defineConfig([
     plugins: { js },
     extends: ["js/recommended"],
     languageOptions: { globals: globals.browser },
-    ignores: ["eslint.config.mjs", "commitlint.config.mjs"],
+    ignores: ["eslint.config.js", "commitlint.config.js"],
   },
   tseslint.configs.recommended,
 ]);
